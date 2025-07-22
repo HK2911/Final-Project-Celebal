@@ -15,14 +15,7 @@ Follow these steps to set up and run the project locally:
 
 2. *Start the development server*  
    Choose any one of the following based on your package manager:
-
    npm run dev  
-   # or  
-   yarn dev  
-   # or  
-   pnpm dev  
-   # or  
-   bun dev  
 
 3. *Open in browser*  
    Navigate to: http://localhost:3000  
@@ -61,7 +54,7 @@ More info: https://nextjs.org/docs/pages/deployment
 
 ## 👨‍💻 Author
 
-Developed by Harsh Kumar 
+Developed by Harsh Kumar[HK] 
 Contact: hk1295217@gmail.com
 
 ---
