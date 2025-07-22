@@ -47,7 +47,10 @@ Follow these steps to set up and run the project locally:
 
 📸 Project's Visuals: [Watch Here](https://drive.google.com/drive/folders/19U7gLW_fc4I9m0V6P5Bc9qEipMh_xOiG?usp=sharing)
 
-📔 ER Diagram: [Watch Here](https://drive.google.com/drive/folders/1a7ZiXVFtC-AUwEijhkZIB56Rx_sCXnH-?usp=sharing)
+📊 Flow Chart: [Watch Here](https://drive.google.com/file/d/1_BpJGb6qDThA0M3wEzkTk8BgZngWMt5L/view?usp=sharing)
+
+📔 ER Diagram: [Watch Here](https://drive.google.com/file/d/1QEXWslERFv-AfdWwwb95rThzNDqxUALI/view?usp=sharing)
+
 
 ---
 
