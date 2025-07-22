@@ -44,6 +44,7 @@ Follow these steps to set up and run the project locally:
 ## 📽 Deployment Walkthrough
 
 🎬 Deployment Video: [Watch Here](https://drive.google.com/file/d/1IWNEI6PFU4vwQJ-OUaaWvh2QYeWuSKN_/view?usp=sharing)  
+Project's Visuals: [Watch Here](https://drive.google.com/drive/folders/19U7gLW_fc4I9m0V6P5Bc9qEipMh_xOiG?usp=sharing)
 📌 Replace the link above with your actual deployment video URL.
 
 ---
